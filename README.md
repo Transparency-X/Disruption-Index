@@ -2,10 +2,10 @@
 
 > **A comprehensive framework for measuring disruption across home, personal, and professional domains.**
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/disruption-index?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/disruption-index?style=social)
-![License](https://img.shields.io/github/license/your-username/disruption-index)
-![Issues](https://img.shields.io/github/issues/your-username/disruption-index)
+![GitHub stars](https://img.shields.io/github/stars/Transparency-X/disruption-index?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Transparency-X/disruption-index?style=social)
+![License](https://img.shields.io/github/license/Transparency-X/disruption-index)
+![Issues](https://img.shields.io/github/issues/Transparency-X/disruption-index)
 
 ---
 
